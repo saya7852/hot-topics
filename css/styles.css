@@ -1,10 +1,6 @@
-/* Green Energy Content Manipulation Page
+/* Hot Topics Styles
 
 Requirements:
-
-Breakpoint: 30rem
-Max-Width: 60rem
-Centre Align HTML
 
 ****** FONTS ******
 Serif(headings) & Sans-serif(body) Google Font Pair
@@ -23,12 +19,13 @@ Font sizes: Mobile = 0.75rem
 Analogous - include HEX values
 HTML Background colour
 
-Primary: green/blue-grey #365C3D 
-Secondary: lighter green #4D6937
-Secondary: earthy green #756838
+Basic White #ffffff
+Basic Black #000000
+Charcoal #403E3E
 
-Basic Light: simple cream #FEFFF0
-Basic Dark: dark-dark green #171F17
+Light Grey #f1f1f1 & #D2D0D0
+Accent Green #368371
+Accent Lighter Green #CDEBA4
 
 
 ****** LAYOUT ******
@@ -345,7 +342,7 @@ For screens wider than 35rem */
     /* change heading layout */
     nav.navbar {
         display: inline;
-        background-color: #CAFAEF;
+        background-color: #CDEBA4;
     }
     
     ul.navlist {
