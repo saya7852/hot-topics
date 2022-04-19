@@ -1,10 +1,4 @@
-/* Green Energy Content Manipulation Page
-
-Requirements:
-
-Breakpoint: 30rem
-Max-Width: 60rem
-Centre Align HTML
+/* This is the main stylesheet for Hot Topics - MTM1526
 
 ****** FONTS ******
 Serif(headings) & Sans-serif(body) Google Font Pair
@@ -23,24 +17,14 @@ Font sizes: Mobile = 0.75rem
 Analogous - include HEX values
 HTML Background colour
 
-Primary: green/blue-grey #365C3D 
-Secondary: lighter green #4D6937
-Secondary: earthy green #756838
+Primary
+Black #000000
+Med Grey #707070
+Cloud #F1F1F1
 
-Basic Light: simple cream #FEFFF0
-Basic Dark: dark-dark green #171F17
-
-
-****** LAYOUT ******
-
-- Mobile View (<30rem):
-Gutter around the content 2rem
-Left-align everything
-
-- Tablet/Desktoop View (<60rem):
-Float Navbar items & align horizontally
-Main content image at 25% & floating
-Text wraps around image
+Accent
+Blue Green #368371
+Mint #CAFAEF
 
 */
 
@@ -68,7 +52,8 @@ h1, h2, h5 {
 }
 
 .controls {
-    background-color: #707070;
+    
+    color: #707070;
 }
 
 
